@@ -12,7 +12,7 @@ Hi, Soy Andres Felipe Loaiza
 
 ## My Tech Stack and Tools
 
-### Programming Languages
+### lenguajes de programación 
 
 <p>
   
