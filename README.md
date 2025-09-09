@@ -10,7 +10,7 @@ Hi, Soy Andres Felipe Loaiza
 ## Mi serpiente: 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-## My Tech Stack and Tools
+
 
 ### lenguajes de programación 
 
@@ -27,7 +27,7 @@ Hi, Soy Andres Felipe Loaiza
 
 
 
-### Frameworks and Libraries
+### Frameworks y Libraries
 
 <p>
 
