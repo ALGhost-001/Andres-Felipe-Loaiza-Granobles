@@ -52,14 +52,8 @@ Hi, Soy Andres Felipe Loaiza
 
 
 
-### MISC
-
-<p>
-	
-![icons8-heroku](https://user-images.githubusercontent.com/76852813/172721998-708f82d2-e288-462e-a2fd-2ee471036151.svg)
-![icons8-raspberry-pi](https://user-images.githubusercontent.com/76852813/172732112-5119f3f5-16f0-4ddb-aa32-1926cb9f56a8.svg)
 
 
 
 
-Last Edited on: 15/01/2021
+Last Edited on: 09/09/2025
